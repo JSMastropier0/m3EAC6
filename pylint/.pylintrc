@@ -1,0 +1,5 @@
+[MASTER]
+disable=
+	C0301, #Line too long
+	C0114, # Missing module docstring (missing-module-docstring)
+	E0401, # Unable to import 'exercises.config' (import-error)
